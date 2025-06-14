@@ -7161,6 +7161,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Brown",
 		eggGroups: ["Field", "Human-Like"],
 		requiredItem: "Infernapite",
+		isNonstandard: "CAP"
 	},
 	piplup: {
 		num: 393,
