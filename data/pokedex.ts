@@ -7139,7 +7139,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		name: "Infernape",
 		types: ["Fire", "Fighting"],
 		genderRatio: { M: 0.875, F: 0.125 },
-		baseStats: { hp: 76, atk: 104, def: 71, spa: 104, spd: 71, spe: 108 },
+		baseStats: { hp: 76, atk: 155, def: 71, spa: 104, spd: 71, spe: 108 },
 		abilities: { 0: "Blaze", H: "Iron Fist" },
 		heightm: 1.2,
 		weightkg: 55,
