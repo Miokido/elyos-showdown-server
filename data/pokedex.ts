@@ -7149,7 +7149,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	infernapemega: {
-		num: 428,
+		num: 392,
 		name: "Infernape-Mega",
 		baseSpecies: "Infernape",
 		forme: "Mega",
