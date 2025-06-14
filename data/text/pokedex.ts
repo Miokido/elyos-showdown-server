@@ -1529,6 +1529,9 @@ export const PokedexText: { [id: IDEntry]: PokedexText } = {
 	infernape: {
 		name: "Infernape",
 	},
+	infernapemega: {
+		name: "Infernape-Mega",
+	},
 	piplup: {
 		name: "Piplup",
 	},
