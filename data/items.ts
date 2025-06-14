@@ -45,6 +45,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 9999,
 		gen: 6,
+		isNonstandard: "Past",
 	},
 	absolite: {
 		name: "Absolite",
