@@ -52414,7 +52414,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 	rotomfrost: {
 		learnset: {
 			blizzard: ["9R", "8R", "7R", "6R", "5R", "4R"],
-			freezedry: ["8E"],
+			freezedry: ["9L0", "8L0", "7L1", "6L42"],
 		},
 	},
 	rotomfan: {
