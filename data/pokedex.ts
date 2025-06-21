@@ -2400,7 +2400,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		evoRegion: "Alola",
 		eggGroups: ["Monster"],
 	},
-	marrowakhollow: {
+	marowakhollow: {
 		num: 105,
 		name: "Marowak Hollow",
 		baseSpecies: "Marowak",
