@@ -500,6 +500,9 @@ export const PokedexText: { [id: IDEntry]: PokedexText } = {
 	marowakalola: {
 		name: "Marowak-Alola",
 	},
+	marowakhollow: {
+		name: "Marowak-Hollow",
+	},
 	marowakalolatotem: {
 		name: "Marowak-Alola-Totem",
 	},

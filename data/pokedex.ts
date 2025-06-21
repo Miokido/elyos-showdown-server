@@ -2365,7 +2365,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 6.5,
 		color: "Brown",
-		evos: ["Marowak", "Marowak-Alola"],
+		evos: ["Marowak", "Marowak Hollow", "Marowak-Alola"],
 		eggGroups: ["Monster"],
 	},
 	marowak: {
@@ -2380,8 +2380,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		prevo: "Cubone",
 		evoLevel: 28,
 		eggGroups: ["Monster"],
-		otherFormes: ["Marowak-Alola", "Marowak-Alola-Totem"],
-		formeOrder: ["Marowak", "Marowak-Alola", "Marowak-Alola-Totem"],
+		otherFormes: ["Marowak-Alola", "Marowak Hollow", "Marowak-Alola-Totem"],
+		formeOrder: ["Marowak", "Marowak-Alola", "Marowak Hollow", "Marowak-Alola-Totem"],
 	},
 	marowakalola: {
 		num: 105,
@@ -2402,7 +2402,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	marowakhollow: {
 		num: 105,
-		name: "Marowak Hollow",
+		name: "Marowak-Hollow",
 		baseSpecies: "Marowak",
 		forme: "Alola",
 		types: ["Fire", "Ghost"],
