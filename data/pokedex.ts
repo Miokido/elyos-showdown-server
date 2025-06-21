@@ -2400,6 +2400,23 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		evoRegion: "Alola",
 		eggGroups: ["Monster"],
 	},
+	marrowakhollow: {
+		num: 105,
+		name: "Marowak Hollow",
+		baseSpecies: "Marowak",
+		forme: "Alola",
+		types: ["Fire", "Ghost"],
+		baseStats: { hp: 60, atk: 80, def: 110, spa: 50, spd: 80, spe: 45 },
+		abilities: { 0: "Cursed Body", 1: "Lightning Rod", H: "Rock Head" },
+		heightm: 1,
+		weightkg: 34,
+		color: "Purple",
+		prevo: "Cubone",
+		evoLevel: 28,
+		evoCondition: "at night",
+		evoRegion: "Alola",
+		eggGroups: ["Monster"],
+	},
 	marowakalolatotem: {
 		num: 105,
 		name: "Marowak-Alola-Totem",
@@ -7161,7 +7178,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Brown",
 		eggGroups: ["Field", "Human-Like"],
 		requiredItem: "Infernapite",
-		isNonstandard: "CAP"
 	},
 	piplup: {
 		num: 393,
