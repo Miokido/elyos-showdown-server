@@ -2404,7 +2404,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		num: 105,
 		name: "Marowak-Hollow",
 		baseSpecies: "Marowak",
-		forme: "Alola",
+		forme: "Hollow",
 		types: ["Fire", "Ghost"],
 		baseStats: { hp: 60, atk: 80, def: 110, spa: 50, spd: 80, spe: 45 },
 		abilities: { 0: "Cursed Body", 1: "Lightning Rod", H: "Rock Head" },
