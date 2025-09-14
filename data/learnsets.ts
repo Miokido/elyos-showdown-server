@@ -1365,8 +1365,6 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 	},
 	pidgeotto: {
 		learnset: {
-			focusblast: ["9M", "7M", "6M", "5M", "4M"],
-			boomburst: ["9L62"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			agility: ["8V", "7L32", "7V", "6L32", "5L32", "4L32", "3L43"],
 			aircutter: ["4T"],
@@ -1441,6 +1439,8 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 	},
 	pidgeot: {
 		learnset: {
+			focusblast: ["9M", "7M", "6M", "5M", "4M"],
+			boomburst: ["9L62"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			agility: ["8V", "7L32", "7V", "6L32", "5L32", "4L32", "3L48"],
 			aircutter: ["4T"],
