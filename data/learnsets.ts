@@ -1365,6 +1365,8 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 	},
 	pidgeotto: {
 		learnset: {
+			focusblast: ["9M", "7M", "6M", "5M", "4M"],
+			boomburst: ["9L62"],
 			aerialace: ["7M", "6M", "5M", "4M", "3M"],
 			agility: ["8V", "7L32", "7V", "6L32", "5L32", "4L32", "3L43"],
 			aircutter: ["4T"],
@@ -20721,6 +20723,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			charm: ["9M", "9L1", "8M", "8L1"],
 			confide: ["7M", "6M"],
 			confuseray: ["9M"],
+			luminacrash: ["9L0"],
 			confusion: ["9L0", "8L0", "7L1", "7V", "6L9", "6S2", "5L9", "4L15", "3L16"],
 			copycat: ["9L1", "8L1"],
 			covet: ["9L1", "8L1", "7T", "6T", "5T"],
@@ -34869,6 +34872,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			superfang: ["7T", "6T", "5T", "4T"],
 			surf: ["8M", "7M", "6M", "5M", "4M", "3M"],
 			swagger: ["7M", "6M", "5M", "4M", "3T"],
+			swordsdance: ["8M", "8L45", "7M", "7L25", "6M", "6L25", "5M", "5L25", "4M", "4L25", "3T", "3L26", "3S2"],
 			swift: ["8M", "4T", "3T"],
 			switcheroo: ["8L1", "7L1", "6L1", "5L1", "4L1"],
 			tackle: ["8L1", "7L1", "6L1", "5L1", "4L1", "3L1"],
