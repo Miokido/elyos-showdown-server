@@ -746,6 +746,9 @@ export const PokedexText: { [id: IDEntry]: PokedexText } = {
 	pichu: {
 		name: "Pichu",
 	},
+	pichukulele: {
+		name: "Pichukulele",
+	},
 	pichuspikyeared: {
 		name: "Pichu-Spiky-eared",
 	},

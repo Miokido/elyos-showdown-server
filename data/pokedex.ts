@@ -3631,6 +3631,20 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		otherFormes: ["Pichu-Spiky-eared"],
 		formeOrder: ["Pichu", "Pichu-Spiky-eared"],
 	},
+	pichukulele: {
+		num: 172,
+		name: "Pichukulele",
+		baseSpecies: "Pichu",
+		forme: "Ukulele",
+		types: ["Electric"],
+		baseStats: { hp: 20, atk: 120, def: 15, spa: 35, spd: 35, spe: 200 },
+		abilities: { 0: "Static", H: "Lightning Rod" },
+		heightm: 0.3,
+		weightkg: 2,
+		color: "Yellow",
+		eggGroups: ["Undiscovered"],
+		gen: 9
+	},
 	pichuspikyeared: {
 		num: 172,
 		name: "Pichu-Spiky-eared",
