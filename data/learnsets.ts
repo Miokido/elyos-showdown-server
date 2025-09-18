@@ -2385,7 +2385,8 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			{generation: 4, level: 30, shiny: true, gender: "M", nature: "Jolly", moves: ["charge", "volttackle", "endeavor", "endure"], pokeball: "cherishball"},
 			{generation: 9, level: 30, shiny: true, gender: "M", nature: "Jolly", moves: ["charge", "volttackle", "endure", "helpinghand"], pokeball: "cherishball"},
 		],
-	},pichu: {
+	},
+	pichukulele: {
 		learnset: {
 			attract: ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],
 			bestow: ["7E", "6E", "5E"],
@@ -2487,7 +2488,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			{generation: 9, level: 30, shiny: true, gender: "M", nature: "Jolly", moves: ["charge", "volttackle", "endure", "helpinghand"], pokeball: "cherishball"},
 		],
 	},
-	pichukulele: {
+	pichuspikyeared: {
 		learnset: {
 			attract: ["4M"],
 			captivate: ["4M"],
