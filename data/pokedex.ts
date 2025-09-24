@@ -8574,7 +8574,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		num: 479,
 		name: "Rotom-Drone",
 		baseSpecies: "Rotom",
-		forme: "Mow",
+		forme: "Drone",
 		types: ["Electric", "Steel"],
 		gender: "N",
 		baseStats: { hp: 50, atk: 65, def: 107, spa: 105, spd: 107, spe: 86 },
