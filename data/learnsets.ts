@@ -47502,6 +47502,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 	},
 	infernape: {
 		learnset: {
+			victorydance: ["9L0"],
 			acrobatics: ["9M", "9L52", "7M", "7L52", "6M", "6L52", "5M", "5L52"],
 			aerialace: ["9M", "7M", "6M", "5M", "4M"],
 			agility: ["9M"],
@@ -52649,6 +52650,11 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 		learnset: {
 			leafstorm: ["9R", "8R", "7R", "6R", "5R", "4R"],
 			leechseed: ["9L30", "8L30", "7L8", "6L8", "5L8", "5D"],
+		},
+	},
+	rotomdrone: {
+		learnset: {
+			flashcannon: ["9R", "8R", "7R", "6R", "5R", "4R"]
 		},
 	},
 	uxie: {
@@ -60940,6 +60946,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 	},
 	zoroarkhisui: {
 		learnset: {
+			bloodmoon: ["9L70", "9S0"],
 			aerialace: ["9M"],
 			agility: ["9M", "9L34"],
 			bittermalice: ["9L46", "9S0"],
