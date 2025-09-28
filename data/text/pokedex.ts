@@ -17,6 +17,9 @@ export const PokedexText: { [id: IDEntry]: PokedexText } = {
 	charmander: {
 		name: "Charmander",
 	},
+	megamythos: {
+		name: "Mega Mythos",
+	},
 	charmeleon: {
 		name: "Charmeleon",
 	},

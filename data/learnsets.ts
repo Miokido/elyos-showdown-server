@@ -29,6 +29,14 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			watergun: ["3L1"],
 		},
 	},
+    megamythos: {
+		learnset: {
+            vcreate: ["5S3"],
+            extremespeed: ["5S26"],
+            metronome: ["9M", "8M", "7E", "7V", "6E", "5E", "4E", "3T", "3E"],
+            blazekick: ["8M"]
+        },
+	},
 	bulbasaur: {
 		learnset: {
 			acidspray: ["9M"],

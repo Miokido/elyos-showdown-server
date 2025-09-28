@@ -19869,4 +19869,17 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+	megamythos: {
+		num: -5002,
+		name: "Mega Mythos",
+		types: ["Steel", "Psychic"],
+		gender: "M",
+		baseStats: { hp: 150, atk: 120, def: 100, spa: 120, spd: 100, spe: 90 },
+		abilities: { 0: "Moody" },
+		heightm: 1.9,
+		weightkg: 110,
+		color: "Black",
+		tags: ["Legendary"],
+		eggGroups: ["Undiscovered"],
+	}
 };
